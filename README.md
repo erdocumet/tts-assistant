@@ -1,5 +1,5 @@
 # A modular Text-to-Speech assistant with simplicity in mind
-A virtual assistant (think: Alexa, Siri, etc.) that is small and modular and designed to be implemented on top of other projects to make human-machine interaction more natural. Still a work in progres...
+A virtual assistant (think: Alexa, Siri, etc.) that is small and modular and designed to be implemented on top of other projects to make human-machine interaction more natural. Still a work in progress...
 
 # Dependancies
 This has dependancies! Notably, to function fully offline this project uses VOSK voice recognition and piper-tts for text-to speech. For this to work, you must:
